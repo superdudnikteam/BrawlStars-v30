@@ -1,0 +1,56 @@
+[
+     {
+         "ID": 40,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 228,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 146,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 82,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 24,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+
+     {
+         "ID": 269,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     },
+     {
+         "ID": 290,
+         "Status": 3,
+         "Ended": false,
+         "Modifier": 0,
+         "Timer": 86400
+     }
+]
