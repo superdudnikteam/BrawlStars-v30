@@ -98,7 +98,7 @@ class LogicDailyData:
 
         self.writeVInt(1)  # BrawlPassSeasonData
         for x in range(1):
-            self.writeVInt(1)  # Current Season
+            self.writeVInt(2)  # Current Season
             self.writeVInt(0)  # Pass Tokens
             self.writeBool(self.player.bp_activated)
             self.writeVInt(2)  # Pass Progress
