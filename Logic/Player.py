@@ -34,7 +34,7 @@ class Player:
     name_color = 0
     selected_brawler = 0
     region = settings['Region']
-    content_creator = "BS v36"
+    content_creator = "BS v30"
     name_set = False
     name = 'Guest'
     map_id = 0
