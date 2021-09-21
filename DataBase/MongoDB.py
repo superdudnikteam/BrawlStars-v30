@@ -48,7 +48,7 @@ class MongoDB:
             'SelectedSkins': Player.selected_skins,
             'SelectedBrawler': 0,
             'Region': Player.region,
-            'SupportedContentCreator': "Modern Brawl",
+            'SupportedContentCreator': "BS v30",
             'StarPower': Player.starpower,
             'Gadget': Player.gadget,
             'BrawlPassActivated': False,
