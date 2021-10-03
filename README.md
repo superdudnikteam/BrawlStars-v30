@@ -1,4 +1,5 @@
 # Brawl Stars v30
+это форк поэтому пошел нахуй
 
 Brawl Stars v30.242 server emulator written in Python.
 
